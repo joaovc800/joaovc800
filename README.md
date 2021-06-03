@@ -2,7 +2,7 @@
 
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-### Abstract
+### Sobre
 
 - 👨‍💻 Auxiliar de Service Desk Trainee em **Uninove**.
 - 🌱 Estudante de Análise e Desenvolvimento de sistemas, 3° semestre.
