@@ -31,6 +31,8 @@
    
 </p>
 
+|![](https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg)|![](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+
 ## Contato :iphone:
 
 <p align="center">
