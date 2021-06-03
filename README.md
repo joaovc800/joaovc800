@@ -9,7 +9,7 @@
 - 💙 Interesse: PHP, html, css, javaScript, React-native, C#, SQL.
 
 
-## Skills :nerd_face:
+## Abilidades :nerd_face:
 <p align="center">
     <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -31,7 +31,7 @@
    
 </p>
 
-## Contact :iphone:
+## Contato :iphone:
 
 <p align="center">
     <a href="https://github.com/joaovc800">
