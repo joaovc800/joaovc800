@@ -4,15 +4,14 @@
 
 ### Abstract
 
-- 👨‍💻 Engenheiro de Software Jr na **Itaú Unibanco**.
-- 🌱 Estudante de Ciência da computação, 5° semestre.
-- 💙 Interesse: Java, Spring Boot, html, css, javaScript, React, c# , .net e ASP.net.
-- :video_game: Gosta de jogar Free fire? É só chamar, vamos subir de patente juntos ou não hehehe
+- 👨‍💻 Auxiliar de Service Desk Trainee em **Uninove**.
+- 🌱 Estudante de Análise e Desenvolvimento de sistemas, 3° semestre.
+- 💙 Interesse: PHP, html, css, javaScript, React-native, C#, SQL.
 
 
 ## Skills :nerd_face:
 <p align="center">
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+    <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -28,7 +27,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" >
+    <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
    
 </p>
 
