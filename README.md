@@ -6,7 +6,7 @@
 
 - 👨‍💻 Auxiliar de Service Desk Trainee em **Uninove**.
 - 🌱 Estudante de Análise e Desenvolvimento de sistemas, 3° semestre.
-- 💙 Interesse: PHP, html, css, javaScript, React-native, C#, SQL.
+- 🖤 Interesse: PHP, HTML, CSS, JS, React-Native, C#, SQL.
 
 
 ## Abilidades :nerd_face:
