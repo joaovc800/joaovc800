@@ -28,7 +28,7 @@
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:joaoviniciusdacosta800@gmail.com">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/mateusaraujobarros">
+    <a href="https://www.linkedin.com/in/jo%C3%A3o-vinicius-da-costa-2786811b7/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/jo%C3%A3o-vinicius-da-costa-2786811b7/">
     </a>
 </p>
