@@ -9,7 +9,7 @@
 - 🖤 Interesse: PHP, HTML, CSS, JS, React-Native, C#, SQL.
 
 
-## Abilidades :nerd_face:
+## Habilidades :nerd_face:
 <p align="center">
     <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
