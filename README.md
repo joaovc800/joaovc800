@@ -4,8 +4,8 @@
 
 ### Sobre
 
-- 👨‍💻 Auxiliar de Service Desk Trainee em **Uninove**.
-- 🌱 Estudante de Análise e Desenvolvimento de sistemas, 3° semestre.
+- 👨‍💻 Auxiliar de Suporte de Projetos Trainee em **Uninove**.
+- 🌱 Estudante de Análise e Desenvolvimento de sistemas, 4° semestre.
 - 🖤 Interesse: PHP, HTML, CSS, JS, React-Native, C#, SQL.
 
 
