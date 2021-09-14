@@ -5,8 +5,11 @@
 ### Sobre
 
 > 👨‍💻 Auxiliar de Suporte de Projetos Trainee em **Uninove**.
+
 > 👨‍💻 Desenvolvedor Web.
+
 > 🌱 Estudante de Análise e Desenvolvimento de sistemas, 4° semestre.
+
 > 🖤 Interesses: PHP, HTML, CSS, JS, React-Native, C#, SQL, PL/SQL, Oracle, Bootstrap, Vue.js
 
 
