@@ -2,18 +2,14 @@
 
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-### Sobre
+### About
 
-> 👨‍💻 Auxiliar de Suporte de Projetos Trainee em **Uninove**.
-
-> 👨‍💻 Desenvolvedor Web.
-
-> 🌱 Estudante de Análise e Desenvolvimento de sistemas, 4° semestre.
-
-> 🖤 Interesses: PHP, HTML, CSS, JS, React-Native, C#, SQL, PL/SQL, Oracle, Bootstrap, Vue.js
+- 👨‍💻 Trainee Project Support Assistant in **Uninove**.
+- 👨‍💻 Web Developer Web.
+- 🌱 Student of Systems Analysis and Development, 4th semester.
 
 
-## Habilidades :nerd_face:
+## skills :nerd_face:
 
 <code><img widht="30" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img widht="30" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
@@ -38,7 +34,7 @@
 </div>
 
 
-## Contato :iphone:
+## Contact :iphone:
 
 <p align="center">
     <a href="https://github.com/joaovc800">
