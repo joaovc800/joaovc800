@@ -5,7 +5,7 @@
 ### About
 
 - 👨‍💻 Trainee Project Support Assistant in **Uninove**.
-- 👨‍💻 Web Developer Web.
+- 👨‍💻 Web Developer.
 - 🌱 Student of Systems Analysis and Development, 4th semester.
 
 
