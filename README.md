@@ -49,3 +49,8 @@
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/jo%C3%A3o-vinicius-da-costa-2786811b7/">
     </a>
 </p>
+<hr>
+## Views
+<p align = "center"> 
+   <img alingn = "center" src = "https://profile-counter.glitch.me/joaovc800/count.svg" />
+ </p>
