@@ -50,7 +50,9 @@
     </a>
 </p>
 <hr>
-## Views
+
+#Views
+
 <p align = "center"> 
    <img alingn = "center" src = "https://profile-counter.glitch.me/joaovc800/count.svg" />
  </p>
