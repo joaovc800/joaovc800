@@ -6,7 +6,7 @@
 
 - 👨‍💻 Trainee Systems Analyst in **Uninove**.
 - 👨‍💻 Web Developer.
-- 🌱 Student of Systems Analysis and Development, 4th semester.
+- 🌱 Student of Systems Analysis and Development, last semester.
 
 
 ## Skills :nerd_face:
