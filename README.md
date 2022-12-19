@@ -29,7 +29,7 @@
 <code><img widht="30" height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/laravel/laravel-plain.svg"></code>
 <code><img widht="30" height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original-wordmark.svg"></code>
 
-<hr>
+## 📊 GitHub Stats:
 
 <div>
   <a href="https://github.com/joaovc800">
@@ -37,7 +37,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovc800&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-<hr>
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=joaovc800)](https://github.com/joaovc800/github-profile-trophy)
