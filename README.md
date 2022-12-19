@@ -59,8 +59,4 @@
 </p>
 <hr>
 
-# Views
-
-<p align = "center"> 
-   <img alingn = "center" src = "https://profile-counter.glitch.me/joaovc800/count.svg" />
-</p>
+[![](https://visitcount.itsvg.in/api?id=joaovc800&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
