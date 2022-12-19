@@ -4,10 +4,11 @@
 
 ### About
 
-- 👨‍💻 Trainee Systems Analyst in **Uninove**.
+- 👨‍💻 Systems Analyst in **Uninove**.
 - 👨‍💻 Web Developer.
-- 🌱 graduated in Systems Analysis and Development.
-
+- 🎓 Graduated in Systems Analysis and Development.
+- 🌱 Postgraduate in Fullstack Web Development.
+- 🌱 Postgraduate in Mobile Application Development.
 
 ## Skills :nerd_face:
 
