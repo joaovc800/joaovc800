@@ -42,4 +42,4 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=joaovc800&&row=1)
 
 <hr>
-[![](https://visitcount.itsvg.in/api?id=joaovc800&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+<img src="https://visitcount.itsvg.in/api?id=joaovc800&label=Profile%20Views&pretty=true">
