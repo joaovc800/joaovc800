@@ -40,6 +40,9 @@
 
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=joaovc800&&row=1)
+  
+## Quotes
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <hr>
 <img src="https://visitcount.itsvg.in/api?id=joaovc800&label=Profile%20Views&pretty=true">
