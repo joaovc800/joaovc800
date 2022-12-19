@@ -39,7 +39,7 @@
   
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=joaovc800&&row=2)]()
+[![trophy](https://github-profile-trophy.vercel.app/?username=joaovc800&&row=1)]
 
 
 ## Contact :iphone:
