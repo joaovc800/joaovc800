@@ -36,6 +36,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovc800&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovc800&layout=compact&langs_count=7&theme=dark"/>
 </div>
+  
+<hr>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=joaovc800)](https://github.com/joaovc800/github-profile-trophy)
 
 
 ## Contact :iphone:
