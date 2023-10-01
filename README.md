@@ -7,8 +7,8 @@
 - 👨‍💻 Systems Analyst in **Uninove**.
 - 👨‍💻 Web Developer.
 - 🎓 Graduated in Systems Analysis and Development.
-- 🌱 Postgraduate in Fullstack Web Development.
-- 🌱 Postgraduate in Mobile Application Development.
+- 🎓 Postgraduate in Fullstack Web Development.
+- 🎓 Postgraduate in Mobile Application Development.
 
 ## Skills :nerd_face:
 
