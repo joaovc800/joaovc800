@@ -54,13 +54,12 @@
   <a href="https://github.com/joaovc800">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovc800&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovc800&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=joaovc800&locale=us&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"/>
 </div>
   
 
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=joaovc800&&row=1)
-
-![status](https://streak-stats.demolab.com/?user=joaovc800&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3)
   
 ## 📚 Quotes
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=Dracula)](https://github.com/piyushsuthar/github-readme-quotes)
