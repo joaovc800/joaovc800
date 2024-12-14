@@ -4,8 +4,8 @@
 
 ### About
 
-- 👨‍💻 Systems Analyst in **Uninove**.
-- 👨‍💻 Web Developer.
+- 👨‍💻 Backend developer PL in **Pontaltech**.
+- 👨‍💻 Backend developer.
 - 🎓 Graduated in Systems Analysis and Development.
 - 🎓 Postgraduate in Fullstack Web Development.
 - 🎓 Postgraduate in Mobile Application Development.
