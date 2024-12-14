@@ -50,16 +50,16 @@
 
 ## 📊 GitHub Stats:
 
-<div>
-  <a href="https://github.com/joaovc800">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovc800&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovc800&layout=compact&langs_count=7&theme=dark"/>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=joaovc800&theme=dracula&border_radius=5" alt="GitHub Streak" /></a>
+<div align="center">
+  <a href="https://github.com/joaovc800" target="_blank">
+    <img width="33%" height="auto" src="https://github-readme-stats.vercel.app/api?username=joaovc800&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img width="33%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovc800&layout=compact&langs_count=7&theme=dark" alt="Top Languages" />
+    <img width="33%" height="auto" src="https://streak-stats.demolab.com?user=joaovc800&theme=dark&border_radius=5" alt="GitHub Streak" />
+  </a>
 </div>
-  
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=joaovc800&&row=1)
+![trophy](https://github-profile-trophy.vercel.app/?username=joaovc800&&row=1&margin-w=10)
   
 ## 📚 Quotes
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=Dracula)](https://github.com/piyushsuthar/github-readme-quotes)
